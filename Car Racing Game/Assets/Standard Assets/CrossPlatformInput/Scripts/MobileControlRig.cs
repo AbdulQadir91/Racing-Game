@@ -4,7 +4,6 @@ using UnityEditor;
 #endif
 using UnityEngine;
 
-
 namespace UnityStandardAssets.CrossPlatformInput
 {
     [ExecuteInEditMode]
@@ -59,7 +58,7 @@ namespace UnityStandardAssets.CrossPlatformInput
 
         private void Update()
         {
-            CheckEnableControlRig();
+            
         }
 #endif
 
